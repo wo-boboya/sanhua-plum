@@ -1,0 +1,18 @@
+721.py :
+将数据集划分为721
+
+Randomized Augmentation Xml.py ：
+进行随机旋转翻转、亮度、对比度、高斯模糊到指定数量
+
+XML Modification Folder.py ：
+批量修改xml的Folder
+
+Xml Modification Name.py ：
+批量修改xml的Name
+
+Xml Modification Path.py :
+批量修改xml的路径
+
+Xml To Txt.py ：
+xml转化为txt
+
